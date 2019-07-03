@@ -1,0 +1,35 @@
+%YAML 1.1
+---
+actions:
+- action_ask_questation
+- utter_greet
+- utter_bye
+intents:
+- affect
+- can_make
+- have_disease
+- pesticides_used
+- size
+- suits_soil
+- suits_temp
+- suits_water
+- taken_in
+- greet
+- bye
+- location
+entities:
+- crop
+- disease_e
+- location_e
+- food_e
+- org_e
+templates:
+ utter_greet:
+  - text: hiiiiii
+  - text: hello how can i help you
+  - text: hello i am sara, hiii
+ utter_bye:
+  - text: byeeeee
+  - text: have a good day
+  - text: thank you for listening
+  - text: hope you had fun chating with me

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+	<form action="http://127.0.0.1:5000/result" method="POST" enctype = "multipart/form-data">
+		<table>
+			<tr>
+				<td>Text:</td>
+				<td><input type="text" name="text"></td>
+			</tr>
+			<tr>
+				<td>Reliability:</td>
+				<td>
+					<select name="rank">
+						<option value="1">Less Reliabile</option>
+						<option value="2">Reliabile</option>
+						<option value="3">Highly Reliabile</option>
+						<option value="4">Extremely Reliabile</option>
+					</select>
+				</td>
+			</tr>
+			<tr>
+				<td>Update Rank?:</td>
+				<td>
+					<select name="update_old_weight">
+						<option value="1">Yes</option>
+						<option value="0">No</option>
+					</select>
+				</td>
+			</tr>
+			<tr>
+				<td>Initial Rank:</td>
+				<td><input type="number" value=0 name="init_rank"></td>
+			</tr>
+			<tr>
+				<td>CSV File path:</td>
+				<td><input type="text" name="file"></td>
+			</tr>
+			<tr>
+				<td><input type="submit" value="Submit"></td>
+			</tr>
+		</table>
+	</form>
+</body>
+</html>

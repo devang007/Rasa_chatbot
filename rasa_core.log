@@ -1,0 +1,27 @@
+(sqlite3.OperationalError) database is locked
+[SQL: PRAGMA table_info("user_role_mapping")]
+(Background on this error at: http://sqlalche.me/e/e3q8)
+(sqlite3.OperationalError) database is locked
+[SQL: PRAGMA table_info("user_role_mapping")]
+(Background on this error at: http://sqlalche.me/e/e3q8)
+(sqlite3.OperationalError) database is locked
+[SQL: PRAGMA table_info("user_role_mapping")]
+(Background on this error at: http://sqlalche.me/e/e3q8)
+(sqlite3.OperationalError) database is locked
+[SQL: PRAGMA table_info("user_role_mapping")]
+(Background on this error at: http://sqlalche.me/e/e3q8)
+(sqlite3.OperationalError) database is locked
+[SQL: PRAGMA table_info("user_role_mapping")]
+(Background on this error at: http://sqlalche.me/e/e3q8)
+(sqlite3.OperationalError) database is locked
+[SQL: PRAGMA table_info("user_role_mapping")]
+(Background on this error at: http://sqlalche.me/e/e3q8)
+(sqlite3.OperationalError) database is locked
+[SQL: PRAGMA table_info("user_role_mapping")]
+(Background on this error at: http://sqlalche.me/e/e3q8)
+(sqlite3.OperationalError) database is locked
+[SQL: PRAGMA table_info("user_role_mapping")]
+(Background on this error at: http://sqlalche.me/e/e3q8)
+(sqlite3.OperationalError) database is locked
+[SQL: PRAGMA table_info("user_role_mapping")]
+(Background on this error at: http://sqlalche.me/e/e3q8)
